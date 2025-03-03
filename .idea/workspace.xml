@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04d5b9a5-75f1-4292-88bb-438b7d9622e8" name="Changes" comment="Ich hasse mich selber">
+    <list default="true" id="04d5b9a5-75f1-4292-88bb-438b7d9622e8" name="Changes" comment="public">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beendeMeinLeben.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/beendeMeinLeben.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +115,8 @@
       <workItem from="1740659376835" duration="4887000" />
       <workItem from="1740667590652" duration="1141000" />
       <workItem from="1740669332440" duration="4073000" />
-      <workItem from="1740674438269" duration="759000" />
+      <workItem from="1740674438269" duration="781000" />
+      <workItem from="1741002528645" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -135,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740615146049</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="public">
+      <option name="closed" value="true" />
+      <created>1740675211872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740675211872</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +162,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Ich hasse mich selber" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ich hasse mich selber" />
+    <MESSAGE value="public" />
+    <option name="LAST_COMMIT_MESSAGE" value="public" />
   </component>
 </project>
