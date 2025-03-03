@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04d5b9a5-75f1-4292-88bb-438b7d9622e8" name="Changes" comment="public">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="04d5b9a5-75f1-4292-88bb-438b7d9622e8" name="Changes" comment="Read me updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +113,7 @@
       <workItem from="1740667590652" duration="1141000" />
       <workItem from="1740669332440" duration="4073000" />
       <workItem from="1740674438269" duration="781000" />
-      <workItem from="1741002528645" duration="320000" />
+      <workItem from="1741002528645" duration="574000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -142,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740675211872</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Read me updated">
+      <option name="closed" value="true" />
+      <created>1741003049594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741003049594</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +168,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="Ich hasse mich selber" />
     <MESSAGE value="public" />
-    <option name="LAST_COMMIT_MESSAGE" value="public" />
+    <MESSAGE value="Read me updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Read me updated" />
   </component>
 </project>
